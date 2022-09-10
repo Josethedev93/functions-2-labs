@@ -275,7 +275,7 @@ console.log(addTen(200))
 
 // CODE HERE
 
-const addTwentyThree = addingFactory(23)
+const addTwentyTwo = addingFactory(22)
 
-console.log(addTwentyThree(5))
-console.log(addTwentyThree(0))
+console.log(addTwentyTwo(5))
+console.log(addTwentyTwo(0))
